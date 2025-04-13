@@ -116,7 +116,7 @@ input_values = {
 }
 
 # Create a bar chart to display the input values
-plt.bar(input_values.keys(), input_values.values())
+plt.bar(input_values.keys(), input_values.values(),color="red")
 plt.xlabel("Water Quality Parameters")
 plt.ylabel("Values")
 plt.title("Water Quality Checker")
