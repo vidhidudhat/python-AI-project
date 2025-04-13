@@ -15,6 +15,10 @@ To install water quality checker project,follow this steps:
  2.install required libraries using in project
  3.run application using python app.py
 
+ @Technology used
+ python
+ libraries:such as pandas,numpy,matplotlib for data analysis and visualization
+
  
 
 
